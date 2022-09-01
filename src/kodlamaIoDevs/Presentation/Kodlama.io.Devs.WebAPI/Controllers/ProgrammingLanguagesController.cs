@@ -24,7 +24,7 @@ public class ProgrammingLanguagesController : BaseController
     }
 
     [HttpDelete("delete/{Id}")]
-    public async Task<IActionResult> Delete([FromRoute] DeleteProgrammingLanguageCommand deleteProgrammingLanguageCommand)
+    public async Task<IActionResult> DeleteById ([FromRoute] DeleteProgrammingLanguageCommand deleteProgrammingLanguageCommand)
     {
         DeletedProgrammingLanguageDto result = await Mediator.Send(deleteProgrammingLanguageCommand);
 
