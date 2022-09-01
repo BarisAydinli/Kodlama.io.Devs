@@ -1,0 +1,12 @@
+C:\Projects\CSharpProjects\Kodlama.io.Devs\src\corePackages\Core.CrossCuttingConcers\bin\Debug\net6.0\Core.CrossCuttingConcerns.deps.json
+C:\Projects\CSharpProjects\Kodlama.io.Devs\src\corePackages\Core.CrossCuttingConcers\bin\Debug\net6.0\Core.CrossCuttingConcerns.dll
+C:\Projects\CSharpProjects\Kodlama.io.Devs\src\corePackages\Core.CrossCuttingConcers\bin\Debug\net6.0\Core.CrossCuttingConcerns.pdb
+C:\Projects\CSharpProjects\Kodlama.io.Devs\src\corePackages\Core.CrossCuttingConcers\obj\Debug\net6.0\Core.CrossCuttingConcerns.csproj.AssemblyReference.cache
+C:\Projects\CSharpProjects\Kodlama.io.Devs\src\corePackages\Core.CrossCuttingConcers\obj\Debug\net6.0\Core.CrossCuttingConcerns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\CSharpProjects\Kodlama.io.Devs\src\corePackages\Core.CrossCuttingConcers\obj\Debug\net6.0\Core.CrossCuttingConcerns.AssemblyInfoInputs.cache
+C:\Projects\CSharpProjects\Kodlama.io.Devs\src\corePackages\Core.CrossCuttingConcers\obj\Debug\net6.0\Core.CrossCuttingConcerns.AssemblyInfo.cs
+C:\Projects\CSharpProjects\Kodlama.io.Devs\src\corePackages\Core.CrossCuttingConcers\obj\Debug\net6.0\Core.CrossCuttingConcerns.csproj.CoreCompileInputs.cache
+C:\Projects\CSharpProjects\Kodlama.io.Devs\src\corePackages\Core.CrossCuttingConcers\obj\Debug\net6.0\Core.CrossCuttingConcerns.dll
+C:\Projects\CSharpProjects\Kodlama.io.Devs\src\corePackages\Core.CrossCuttingConcers\obj\Debug\net6.0\refint\Core.CrossCuttingConcerns.dll
+C:\Projects\CSharpProjects\Kodlama.io.Devs\src\corePackages\Core.CrossCuttingConcers\obj\Debug\net6.0\Core.CrossCuttingConcerns.pdb
+C:\Projects\CSharpProjects\Kodlama.io.Devs\src\corePackages\Core.CrossCuttingConcers\obj\Debug\net6.0\ref\Core.CrossCuttingConcerns.dll
